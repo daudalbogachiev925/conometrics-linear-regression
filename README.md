@@ -1,0 +1,2 @@
+# conometrics-linear-regression
+Эконометрика
